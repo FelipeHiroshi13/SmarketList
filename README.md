@@ -10,5 +10,5 @@ Each list have a sugestion of shopping.
 ##APP
 
 <p align = "center">
-  <img width="500" Height="300" src="app/src/assets/to_gift/showAPP.gif">
+  <img width="900" Height="500" src="app/src/assets/to_gift/showAPP.gif">
 </p>
