@@ -7,7 +7,7 @@ Users can separeted the shopping in three categories: DAILY, WEEKLY and MONTHLY.
 Each list have a sugestion of shopping. 
 
 
-##APP
+## APP
 
 <p align = "center">
   <img width="900" Height="500" src="app/src/assets/to_gift/showAPP.gif">
