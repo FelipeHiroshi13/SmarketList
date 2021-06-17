@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1562A0</color>
+    <color name="colorPrimaryDark">#0C4169</color>
+    <color name="colorAccent">#1D72E9</color>
+    <color name="diaria">#82B8D9</color>
+    <color name="semanal">#2B629F</color>
+    <color name="mensal">#020F59</color>
+</resources>

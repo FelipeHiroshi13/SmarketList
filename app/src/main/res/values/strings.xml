@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Sr Senha</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+
+    <string name="diaria">Compra Diária</string>
+    <string name="semanal">Compra Semanal</string>
+    <string name="mensal">Compra Mensal</string>
+
+    <string name="adicione">Adicione na Lista</string>
+
+
+    <string name="nome">Nome do produto</string>
+    <string name="quantidade">Quantidade</string>
+
+    <string name="terminar">Deseja finalizar a lista?</string>
+    <string name="alterar">Altere o item</string>
+    <string name="title_activity_settings_inicial" translatable="false">Settings</string>
+
+
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
+
+
+    <string name="sim">Sim</string>
+    <string name="nao">Nao</string>
+
+    <string name="editar">Editar</string>
+    <string name="excluir">Excluir</string>
+
+    <string name="item_incluso">Item já incluso</string>
+    <string name="sem_nome">Adicione um nome ao item</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header" translatable="false">Messages</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title" translatable="false">Sync email periodically</string>
+    <string name="attachment_title" translatable="false">Download incoming attachments</string>
+    <string name="attachment_summary_on" translatable="false">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off" translatable="false">Only download attachments when manually requested</string>
+
+</resources>

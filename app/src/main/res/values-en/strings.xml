@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smarket List</string>
+    <string name="adicione">Add to list</string>
+    <string name="alterar">change item</string>
+    <string name="cancelar">Cancel</string>
+    <string name="diaria">Daily</string>
+    <string name="editar">Edit</string>
+    <string name="excluir">Delete</string>
+    <string name="item_incluso">" item already included"</string>
+    <string name="mensal">Monthly</string>
+    <string name="nao">No</string>
+    <string name="nome">" Product's name"</string>
+    <string name="quantidade">Amount</string>
+    <string name="salvar">Save</string>
+    <string name="sem_nome">"Add item name "</string>
+    <string name="semanal">Weekly</string>
+    <string name="sim">Yes</string>
+    <string name="terminar">Finish</string>
+</resources>
